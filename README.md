@@ -1,1 +1,1 @@
-Implementation of generative algorithms to generate F1 strategies
+Implementation of generative algorithms on F1 strategies
